@@ -8,3 +8,5 @@ add merge
 
 hello git stash! 
 test stash
+
+can you stash me?
